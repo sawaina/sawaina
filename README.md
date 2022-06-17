@@ -14,7 +14,7 @@ Welcome to my GitHub page, this will display my most up-to-date repositories. I 
 ## Projects I'm currently working on
 - Hypixel API Wrapper in JS/TS (allows use of multiple keys) - npm module
 
-## Significant projects I've done in the past
+## Significant projects I've done in the past (pinned repositories have a short description describing my thought process)
 - Responsive conversational AI using GPT-3
 - Tic Tac Toe using the minimax algorithm
 - Car driving around a racetrack using Deep Q Learning
@@ -24,4 +24,3 @@ Welcome to my GitHub page, this will display my most up-to-date repositories. I 
 - Searching algorithm used to find arbitrarily renamed symbols and correct them provided with a deobfuscated version of the same applications.
 
 If you want to see more projects, just check my repositories. This account was created new as of 15/06/2022 (DD/MM/YYYY). A note: I've used GitHub for multiple years before this, I'm just starting fresh.
-
